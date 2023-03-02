@@ -21,4 +21,4 @@
 5.Установить библиотеки и зависимости проекта командой pip install -r requirements.txt
 
 6.Для тестирования снимков, находящихся в папке images/test, использовать команду python detect.py --source C:\Projects\ShipDetector\images\test\ --weights runs/train/ship_det/weights/best.pt --conf 0.5 --name ship_det
-(расположение может отличаться в зависимости от места создания проекта)
+(расположение может отличаться в зависимости от места создания проекта). Детекция на снимках располагается в ShipDetector__CustomDataset__\yolov5\runs\detect\yolo_ship_det
