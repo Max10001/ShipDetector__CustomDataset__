@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pictures save</folder>
+	<filename>25.jpg</filename>
+	<path>C:\Projects\ShipDetector\pictures save\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3697</width>
+		<height>2772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3212</xmin>
+			<ymin>688</ymin>
+			<xmax>3335</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2142</xmin>
+			<ymin>2054</ymin>
+			<xmax>2232</xmax>
+			<ymax>2363</ymax>
+		</bndbox>
+	</object>
+</annotation>
