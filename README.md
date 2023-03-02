@@ -7,7 +7,6 @@
 0.Клонировать данный проект командой git clone https://github.com/Max10001/ShipDetector__CustomDataset__
 
 
-
 1.Создать проект, активировать виртуальное окружение и переместиться в корневую папку проекта
 
 2.Установить фреймворк yolo5 командой git clone https://github.com/ultralytics/yolov5
